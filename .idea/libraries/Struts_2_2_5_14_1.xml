@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Struts 2-2.5.14.1" type="struts2">
+    <properties version="2.5.14.1" />
+    <CLASSES>
+      <root url="jar://D:/inerworkspace/SmartgenPlatform_SSH/lib/commons-fileupload.jar!/" />
+      <root url="jar://D:/inerworkspace/SmartgenPlatform_SSH/lib/freemarker.jar!/" />
+      <root url="jar://D:/inerworkspace/SmartgenPlatform_SSH/lib/struts2-core.jar!/" />
+      <root url="jar://D:/inerworkspace/SmartgenPlatform_SSH/lib/commons-lang.jar!/" />
+      <root url="jar://D:/inerworkspace/SmartgenPlatform_SSH/lib/log4j.jar!/" />
+      <root url="jar://D:/inerworkspace/SmartgenPlatform_SSH/lib/ognl.jar!/" />
+      <root url="jar://D:/inerworkspace/SmartgenPlatform_SSH/lib/commons-io.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
